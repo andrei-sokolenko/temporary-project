@@ -1,1 +1,2 @@
-- hosts: all
+- name: Play 1
+  hosts: all
